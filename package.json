@@ -1,0 +1,12 @@
+{
+  "name": "fs",
+  "version": "1.0.0",
+  "description": "Aplicación de linea de comandos",
+  "main": "app.js",
+  "author": "Juan A. García",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {}
+}
