@@ -22,4 +22,5 @@ comandos a usar
 ### Ejemplo
 
 `node app.js crear --base 2`
+
 `node app.js listar -b 5 -l 10`
