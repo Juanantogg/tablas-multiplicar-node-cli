@@ -12,12 +12,12 @@ clonar este respositorio
 comandos a usar
 
 - listar
-  - base (-b)
-  - limite (-l) - opcional - por default es 10
+  - --base    (-b)
+  - --limite  (-l) - opcional - por default es 10
 
 - crear
-  - base (-b)
-  - limite (-l) - opcional - por default es 10
+  - --base    (-b)
+  - --limite  (-l) - opcional - por default es 10
 
 ### Ejemplo
 
